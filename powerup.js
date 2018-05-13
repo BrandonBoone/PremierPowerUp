@@ -2,6 +2,7 @@
 // @name         Premier Power Up
 // @namespace    https://github.com/BrandonBoone/PremierPowerUp/
 // @version      0.1
+// @license      MIT
 // @description  Adds enhancements to the Premier portal.
 // @author       Brandon J. Boone
 // @require      https://cdnjs.cloudflare.com/ajax/libs/semantic-ui/2.3.1/components/transition.min.js
