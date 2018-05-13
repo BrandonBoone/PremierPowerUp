@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Premier Power Up
 // @namespace    https://github.com/BrandonBoone/PremierPowerUp/
-// @version      0.1
+// @version      0.2
 // @license      MIT
 // @description  Adds enhancements to the Premier portal.
 // @author       Brandon J. Boone
@@ -35,6 +35,9 @@ var inline_src = (<><![CDATA[
     waitForReady('pd-jeweler-orders-list .pointing.menu .right.menu')
     .then(($found) => {
         'use strict';
+
+        $found.find('.item:first').removeClass('item');
+
         const currentYear = new Date().getFullYear();
         const yearRange = [];
         for (let i = currentYear; i >= currentYear - 2; i--) {
@@ -42,8 +45,8 @@ var inline_src = (<><![CDATA[
         }
 
         $found.prepend(`
-        <div id="hacktime" class="item">
-            <div class="ui tiny pointing dropdown button" tabindex="0" style="margin-right:4px">
+        <div id="hacktime">
+            <div class="ui tiny pointing dropdown button" tabindex="0" style="margin-right:0px">
               <input type="hidden" id="hacktime-months" name="hacktime-months" value="0">
               <div class="text">All Months</div>
               <div class="menu transition hidden">
