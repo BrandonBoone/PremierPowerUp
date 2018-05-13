@@ -22,7 +22,7 @@ Userscripts to add functionality to www.premierdesigns.com/portal
 
 ## Updating
 
-Scripts are set up to automatically update. You can check for updates from within the Tampermonkey or Greasemonkey menu, or click on the install link again to get the update.
+PremierPowerUp is set to automatically update. You can also check for updates from within the Tampermonkey menu, or click on the install link again to get the update.
 
 ## Issues
 
@@ -38,4 +38,4 @@ If you would like to contribute to this repository, please...
 
 ## Warranty/Liability
 
-This repository contains as-is userscript files. They may modify the behavior and performance of the target website, use at your own risk.
+This repository contains as-is userscript files. They can potentially modify the behavior and performance of the target website in an unintended way, use at your own risk.
