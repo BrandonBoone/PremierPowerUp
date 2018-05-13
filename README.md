@@ -8,9 +8,9 @@ Userscripts to add functionality to www.premierdesigns.com/portal
 
 1. Make sure you have user scripts enabled in your browser (these instructions refer to the latest versions of the browser):
 
-	* Firefox - install [Tampermonkey](https://tampermonkey.net/?ext=dhdg&browser=firefox)
+	* Firefox - install [Tampermonkey](https://tampermonkey.net/?ext=dhdg&browser=firefox).
 	* Chrome - install [Tampermonkey](https://tampermonkey.net/?ext=dhdg&browser=chrome).
-	* Opera - install [Tampermonkey](https://tampermonkey.net/?ext=dhdg&browser=opera) or [Violent Monkey](https://addons.opera.com/en/extensions/details/violent-monkey/).
+	* Opera - install [Tampermonkey](https://tampermonkey.net/?ext=dhdg&browser=opera).
 	* Safari - install [Tampermonkey](https://tampermonkey.net/?ext=dhdg&browser=safari).
 
 2. [Install the script by clicking this link][link-to-source]
