@@ -11,7 +11,10 @@ Userscripts to add functionality to www.premierdesigns.com/portal
 	* Safari - install [Tampermonkey](https://tampermonkey.net/?ext=dhdg&browser=safari).
 
 2. Get information or install:
-	[Install by clicking this link](https://raw.githubusercontent.com/BrandonBoone/PremierPowerUp/master/powerup.js)
+
+	[Install by clicking this link][link-to-source]
+
+[link-to-source]: https://raw.githubusercontent.com/Mottie/GitHub-userscripts/master/github-code-colors.user.js
 
 ## Updating
 
