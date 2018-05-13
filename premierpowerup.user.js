@@ -10,8 +10,8 @@
 // @require      https://cdnjs.cloudflare.com/ajax/libs/babel-standalone/6.18.2/babel.js
 // @require      https://cdnjs.cloudflare.com/ajax/libs/babel-polyfill/6.16.0/polyfill.js
 // @match        https://www.premierdesigns.com/portal/*
-// @updateURL    https://raw.githubusercontent.com/BrandonBoone/PremierPowerUp/master/powerup.js
-// @downloadURL  https://raw.githubusercontent.com/BrandonBoone/PremierPowerUp/master/powerup.js
+// @updateURL    https://raw.githubusercontent.com/BrandonBoone/PremierPowerUp/master/premierpowerup.user.js
+// @downloadURL  https://raw.githubusercontent.com/BrandonBoone/PremierPowerUp/master/premierpowerup.user.js
 // ==/UserScript==
 
 /* jshint ignore:start */
