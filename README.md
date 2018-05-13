@@ -1,7 +1,12 @@
 # PremierPowerUp
 Userscripts to add functionality to www.premierdesigns.com/portal
 
-## Orders Page
+## Enhancements
+
+### Orders
+
+- Added the ability to filter by year and month.
+
 ![Filter Orders](https://raw.githubusercontent.com/BrandonBoone/PremierPowerUp/master/filterOrders.gif)
 
 ## Installation
