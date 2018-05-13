@@ -22,7 +22,10 @@ Userscripts to add functionality to www.premierdesigns.com/portal
 
 [link-to-source]: https://raw.githubusercontent.com/BrandonBoone/PremierPowerUp/master/premierpowerup.user.js
 
-### Demo
+### Tutorial
+
+*Note: This is on a loop, so be sure to watch from the beginning*
+
 ![installation](https://raw.githubusercontent.com/BrandonBoone/PremierPowerUp/master/installation.gif)
 
 ## Updating
