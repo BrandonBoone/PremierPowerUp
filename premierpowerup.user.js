@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Premier Power Up
 // @namespace    https://github.com/BrandonBoone/PremierPowerUp/
-// @version      0.2
+// @version      0.3
 // @license      MIT
 // @description  Adds enhancements to the Premier portal.
 // @author       Brandon J. Boone
