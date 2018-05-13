@@ -17,6 +17,9 @@ Userscripts to add functionality to www.premierdesigns.com/portal
 
 [link-to-source]: https://raw.githubusercontent.com/BrandonBoone/PremierPowerUp/master/premierpowerup.user.js
 
+### Demo
+![installation](https://raw.githubusercontent.com/BrandonBoone/PremierPowerUp/master/installation.gif)
+
 ## Updating
 
 Scripts are set up to automatically update. You can check for updates from within the Tampermonkey or Greasemonkey menu, or click on the install link again to get the update.
