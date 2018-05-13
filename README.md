@@ -10,9 +10,7 @@ Userscripts to add functionality to www.premierdesigns.com/portal
 	* Opera - install [Tampermonkey](https://tampermonkey.net/?ext=dhdg&browser=opera) or [Violent Monkey](https://addons.opera.com/en/extensions/details/violent-monkey/).
 	* Safari - install [Tampermonkey](https://tampermonkey.net/?ext=dhdg&browser=safari).
 
-2. install the script:
-
-[Install by clicking this link][link-to-source]
+2. [Install the script by clicking this link][link-to-source]
 
 [link-to-source]: https://raw.githubusercontent.com/BrandonBoone/PremierPowerUp/master/powerup.js
 
