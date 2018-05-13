@@ -1,14 +1,16 @@
 // ==UserScript==
-// @name         Premier Month Filter
-// @namespace    http://premier.family
+// @name         Premier Power Up
+// @namespace    https://github.com/BrandonBoone/PremierPowerUp/
 // @version      0.1
-// @description  shows how to use babel compiler
-// @author       You
+// @description  Adds enhancements to the Premier portal.
+// @author       Brandon J. Boone
 // @require      https://cdnjs.cloudflare.com/ajax/libs/semantic-ui/2.3.1/components/transition.min.js
 // @require      https://cdnjs.cloudflare.com/ajax/libs/semantic-ui/2.3.1/components/dropdown.min.js
 // @require      https://cdnjs.cloudflare.com/ajax/libs/babel-standalone/6.18.2/babel.js
 // @require      https://cdnjs.cloudflare.com/ajax/libs/babel-polyfill/6.16.0/polyfill.js
 // @match        https://www.premierdesigns.com/portal/*
+// @updateURL    https://raw.githubusercontent.com/BrandonBoone/PremierPowerUp/master/powerup.js
+// @downloadURL  https://raw.githubusercontent.com/BrandonBoone/PremierPowerUp/master/powerup.js
 // ==/UserScript==
 
 /* jshint ignore:start */
