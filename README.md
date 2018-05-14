@@ -9,6 +9,10 @@ Userscripts to add functionality to www.premierdesigns.com/portal
 
 ![Filter Orders](https://raw.githubusercontent.com/BrandonBoone/PremierPowerUp/master/filterOrders.gif)
 
+### Have an idea?
+
+[Open a feature request!](https://github.com/BrandonBoone/PremierPowerUp/issues/new/choose)
+
 ## Installation
 
 1. Make sure you have user scripts enabled in your browser (these instructions refer to the latest versions of the browser):
@@ -34,7 +38,7 @@ PremierPowerUp is set to automatically update. You can also check for updates fr
 
 ## Issues
 
-Please report any userscript issues within this repository's [issue section](https://github.com/BrandonBoone/PremierPowerUp/issues). Thanks!
+Please report any userscript issues within this repository's [issue section](https://github.com/BrandonBoone/PremierPowerUp/issues/new/choose). Thanks!
 
 ## Contributions
 
